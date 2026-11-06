@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5481285ce1495422ae64c68d9c02396e, type: 3}
+  m_Name: Coletaveis
+  m_EditorClassIdentifier:
+  coletaveis:
+  - nome: Pokebola
+    objeto: {fileID: 9100000, guid: b32c63cedddc1024e84040ca3deb2971, type: 2}
+    descricao:
+  - nome: Batatinha
+    objeto: {fileID: 9100000, guid: 691f972491eb2584eb5df15df68ea87b, type: 2}
+    descricao:
+  - nome: EspadaQ
+    objeto: {fileID: 9100000, guid: b5445ca7245545f4caadc8c429efc9c1, type: 2}
+    descricao:
+  - nome: Argola
+    objeto: {fileID: 9100000, guid: 84282df67b3bd0049adb8d1a62c807b3, type: 2}
+    descricao:
+  - nome: Corrente
+    objeto: {fileID: 9100000, guid: 3fc86892c0f404d4a95a7169ae50093c, type: 2}
+    descricao:
+  - nome: Boneco
+    objeto: {fileID: 9100000, guid: 66254536df86725409755040ecca7564, type: 2}
+    descricao:
+  - nome: Esfera
+    objeto: {fileID: 9100000, guid: dfe2dc51a448231489f1c8c256e35d85, type: 2}
+    descricao:
+  - nome: Pena
+    objeto: {fileID: 9100000, guid: d1bccd997ecbbe145809c02c0a306842, type: 2}
+    descricao:
+  - nome: Ampulheta
+    objeto: {fileID: 9100000, guid: 1d31054634fa6864ba284d1f80dbcaac, type: 2}
+    descricao:
+  - nome: Oculos
+    objeto: {fileID: 9100000, guid: 73c989d3b4124bb47a5eb0c8ced57b0c, type: 2}
+    descricao:
+  - nome: Fosforo
+    objeto: {fileID: 9100000, guid: f6f6edaaae46f934f93c8e97b0bcfeb9, type: 2}
+    descricao:
+  - nome: Katana
+    objeto: {fileID: 9100000, guid: 6be00031e6d90b343b9c5bb545de0091, type: 2}
+    descricao:
+  - nome: Lapis
+    objeto: {fileID: 9100000, guid: bc114fcd33c08cb438ce720f3d21774a, type: 2}
+    descricao:
+  - nome: Controle
+    objeto: {fileID: 9100000, guid: c85bbf35840cba44db9f40ebf1d5f181, type: 2}
+    descricao:
+  - nome: Gaiola
+    objeto: {fileID: 9100000, guid: c8c71b7e1d793d7438e2247da19c1d6e, type: 2}
+    descricao:
+  - nome: Garra
+    objeto: {fileID: 9100000, guid: ec65b4ae33b56c24abcc75b4f7b98eec, type: 2}
+    descricao:
+  - nome: Vidro
+    objeto: {fileID: 9100000, guid: 77cec14391a49014ba7a3a221b6dcb76, type: 2}
+    descricao:
+  - nome: Lua
+    objeto: {fileID: 9100000, guid: 24ee67d6cb58c354ea39c15126c27621, type: 2}
+    descricao:
+  - nome: Cubo
+    objeto: {fileID: 9100000, guid: 19ff0d4f2d1fff24fb770025b76ca6ee, type: 2}
+    descricao:
+  - nome: Garrafa
+    objeto: {fileID: 9100000, guid: 49e380346478b584c9f441f5e19f118e, type: 2}
+    descricao:
